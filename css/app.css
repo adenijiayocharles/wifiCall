@@ -242,6 +242,7 @@ table{
 	width: 100%;
 	border-collapse: collapse;
 	text-align: center;
+	margin-bottom: 35px;
 }
 
 tr{
@@ -257,6 +258,7 @@ tr:nth-child(1){
 
 td{
 	padding: 10px;
+	font-weight: bold;
 }
 
 .menu-hidden{
