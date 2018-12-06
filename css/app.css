@@ -151,7 +151,7 @@ body{
 	margin-left: 20px;
 	font-weight: 100;
 	margin-bottom: 0;
-	font-size: 16px;	
+	font-size: 12px;	
 }
 
 .overview-box{
@@ -207,7 +207,7 @@ body{
 }
 
 .overview-box-text{
-	margin-top: 20px;
+	margin-top: 15px;
 }
 
 .statistics-wrapper h4{
